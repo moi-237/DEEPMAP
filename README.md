@@ -127,11 +127,11 @@ L'auteur décline toute responsabilité en cas d'usage malveillant.
   
 > **MENU**
 
-![Exemple d’exécution](assets/screenshot1.png)  
+![Exemple d’exécution](assets/logo.png)  
 
 > **ANALYSE**
 
-![Progression en temps réel](assets/screenshot2.png)  
+![Progression en temps réel](assets/logo.png)  
 
 ---
 
